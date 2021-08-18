@@ -10,7 +10,7 @@ Second semester of systems analysis and development |
 Fullstack course on B7 Web
 <br>
 - STUDYNG ABOUT LANGUAGES:
-JavaScript with React |
+JavaScript |
 Domain over HTML & CSS 
 <br>
 - PERSONAL INTERESTS:
