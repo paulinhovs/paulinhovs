@@ -1,6 +1,6 @@
  Hi there
 
-- I'm studying pure JavaScript, and I'm very interested in react native for mobile.
+- I'm studying pure JavaScript, and I'm very interested in flutter for mobile.
 <br>
 - ABOUT ME:
 23y |
