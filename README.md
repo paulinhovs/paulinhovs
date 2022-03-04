@@ -11,7 +11,7 @@ Fullstack course on B7 Web
 <br>
 - STUDYNG ABOUT LANGUAGES:
 JavaScript | Flutter
-Domain over HTML & CSS 
+Domain over HTML / CSS / FLUTTER / JAVASCRIPT 
 <br>
 - PERSONAL INTERESTS:
 Soccer | 
