@@ -1,19 +1,19 @@
- Hi there
+Olá!
 
-- I'm studying pure JavaScript, and I'm very interested in flutter for mobile.
+- Desenvolvedor focado em mobile e utilizando flutter.
 <br>
-- ABOUT ME:
+- Sobre mim:
 23y |
 Brazilian |
-Web development student |
-Second semester of systems analysis and development |
-Fullstack course on B7 Web
+Estudante de desenvolvimento mobile |
+Terceiro semestre de análise e desenvolvimento de sistemas |
+Curso FullStack da B7web
 <br>
-- STUDYNG ABOUT LANGUAGES:
+- Estudando sobre as linguagens:
 JavaScript | Flutter
-Domain over HTML / CSS / FLUTTER / JAVASCRIPT 
+Dominio de HTML / CSS / FLUTTER / JAVASCRIPT 
 <br>
-- PERSONAL INTERESTS:
-Soccer | 
-Motorcycles |
-Films 
+- Interesses pessoais:
+Futebol | 
+Motos |
+Filmes 
